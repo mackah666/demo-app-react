@@ -9,6 +9,7 @@ This Project is a Simple ReactJS Project which demonstrates the following
 4. Using Bootstrap along with React
 5. Using Basic Routing in React
 6. Adding work for client 1
+7. Adding work for client 2
 
 The project Template can be used to build bigger projects
 
